@@ -1,7 +1,7 @@
 # OPSEC2Elastic
   this is where the magic happens....
-# Some glue to connect the Splunk LEA OPSEC tool to Elasticsearch, mainly using Rsyslog
-# This is all done on a CentOS 6.x box...  hopefully you're using that too...
+ Some glue to connect the Splunk LEA OPSEC tool to Elasticsearch, mainly using Rsyslog
+ This is all done on a CentOS 6.x box...  hopefully you're using that too...
 
 Step 1 - go get the OPSEC 6.0 SDK from Checkpoint...  Somewhere like this: https://supportcenter.checkpoint.com/supportcenter/portal/user/anon/page/default.psml/media-type/html?action=portlets.DCFileAction&eventSubmit_doGetdcdetails=&fileid=7385 
 

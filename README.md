@@ -10,9 +10,14 @@ Step 2 - RTFM - http://docs.splunk.com/index.php?title=Documentation:OPSEC-LEA:I
 Step 3 - Get the latest rsyslog and liblognorm
 
 liblognorm1-1.1.1-1.el6.x86_64
+
 rsyslog-8.8.0.ad1-2.el6.x86_64
+
 rsyslog-mmnormalize-8.8.0.ad1-2.el6.x86_64
+
 rsyslog-elasticsearch-8.8.0.ad1-2.el6.x86_64
+
+## Step 4 - Put the files where they belong...
 
 cp.sh - script to kick off fw1-loggrabber binary 
 

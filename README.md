@@ -30,7 +30,7 @@ fw1-loggrabber.conf - fw1 Checkpoint tool config - goes in /usr/local/fw1-loggra
  1.1.1.1.lea.conf - sample LEA config for 1.1.1.1 file.  Name your configs and .p12 files like this - goes in
 /usr/local/fw1-loggrabber/etc/
  
- ## Step 5 - Profit
+## Step 5 - Profit
  
 If you have problems with rsyslog, setup a  < \*.\*   /var/log/everything.all > rule or something similar to get better debug output... 
 

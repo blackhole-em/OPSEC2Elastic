@@ -7,7 +7,7 @@
 
 ## Step 2 - RTFM - http://docs.splunk.com/index.php?title=Documentation:OPSEC-LEA:Install:AbouttheSplunkAdd-onforCheckPointOPSECLEA:2.0&action=pdfbook
 
-## Step 3 - Get the latest rsyslog and liblognorm
+## Step 3 - Get the latest rsyslog and liblognorm - tested on:
 
 liblognorm1-1.1.1-1.el6.x86_64
 

@@ -1,5 +1,6 @@
 # OPSEC2Elastic
   This is where the magic happens....
+ 
  Some glue to connect the Splunk LEA OPSEC tool to Elasticsearch, mainly using Rsyslog
  This is all done on a CentOS 6.x box...  hopefully you're using that too...
 

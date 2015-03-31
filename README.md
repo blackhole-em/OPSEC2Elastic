@@ -7,7 +7,12 @@ Step 1 - go get the OPSEC 6.0 SDK from Checkpoint...  Somewhere like this: https
 
 Step 2 - RTFM - http://docs.splunk.com/index.php?title=Documentation:OPSEC-LEA:Install:AbouttheSplunkAdd-onforCheckPointOPSECLEA:2.0&action=pdfbook
 
-Step 3 - setup the secret sauce 
+Step 3 - Get the latest rsyslog and liblognorm
+
+liblognorm1-1.1.1-1.el6.x86_64
+rsyslog-8.8.0.ad1-2.el6.x86_64
+rsyslog-mmnormalize-8.8.0.ad1-2.el6.x86_64
+rsyslog-elasticsearch-8.8.0.ad1-2.el6.x86_64
 
 cp.sh - script to kick off fw1-loggrabber binary 
 
